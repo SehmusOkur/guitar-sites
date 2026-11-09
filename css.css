@@ -1,0 +1,28 @@
+
+
+.dg{
+    list-style-position: inside;
+}
+.text-blue{
+    color: #8A2BE2;
+}
+
+.br{
+    background-color: rgba(0, 0, 0, 0.609);
+    color: rgb(253, 182, 182);
+    border-radius: 5px;
+    width:70px;
+    padding: 10px;
+}
+.br a {
+    color:aliceblue;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+.br:hover{
+    background-color: rgb(46, 40, 31);
+    color: rgb(138, 6, 6);
+    text-decoration: none;
+}
